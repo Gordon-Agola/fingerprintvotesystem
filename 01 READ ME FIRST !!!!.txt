@@ -1,0 +1,11 @@
+
+
+ADMIN PANEL LOGIN DETAILS
+ 
+Username:admin
+Password: admin
+
+URL FOR ADMIN: http://localhost/votesystem/admin/
+URL FOR VOTER: http://localhost/votesystem/
+
+
